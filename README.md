@@ -1,4 +1,4 @@
 # kaju-demo
 This is my first GIT repository
 <br>
-Author-Kirti Tiwari
+Author-Kirti sharma
